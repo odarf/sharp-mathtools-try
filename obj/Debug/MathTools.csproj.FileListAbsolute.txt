@@ -1,0 +1,12 @@
+c:\users\андрей\source\repos\Ch1\MathTools\bin\Debug\MathTools.dll
+c:\users\андрей\source\repos\Ch1\MathTools\bin\Debug\MathTools.pdb
+c:\users\андрей\source\repos\Ch1\MathTools\obj\Debug\MathTools.csprojResolveAssemblyReference.cache
+c:\users\андрей\source\repos\Ch1\MathTools\obj\Debug\MathTools.csproj.CoreCompileInputs.cache
+c:\users\андрей\source\repos\Ch1\MathTools\obj\Debug\MathTools.dll
+c:\users\андрей\source\repos\Ch1\MathTools\obj\Debug\MathTools.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\bin\Debug\MathTools.dll
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\bin\Debug\MathTools.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\obj\Debug\MathTools.csprojAssemblyReference.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\obj\Debug\MathTools.csproj.CoreCompileInputs.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\obj\Debug\MathTools.dll
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\MathTools\obj\Debug\MathTools.pdb
